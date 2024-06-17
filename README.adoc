@@ -18,7 +18,7 @@ This repository contains an extension of the software used for drawing Voronoi d
 ## Installation and run
 To edit the source code on your local machine you need link:https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html[Java8] and link:https://processing.org/download[processing2.2.1]
 
-To run simply download double click the "HilbertVoronoi.jar" icon or navigate to the directory that contains the jar file and run the below command
+To run simply download and double click the "HilbertVoronoi.jar" icon or navigate to the directory that contains the jar file and run the below command
 
 ```bash
 java -jar HilbertVoronoiv0.1.0-alpha.jar
@@ -33,9 +33,9 @@ image::launch_new.png[front pic]
 
 image::polygon.png[front pic]
 
-* Next we have to choose points inside the polygon
-  - If you want to choose points by hand, first choose **Brute-Force Voronoi** or **Fast Voronoi** from the menu and start selecting points in the interior of the polygon
-  - If you want to choose a pre-existing lattice, choose one from the drop down menu before selecting one of the two aforementioned options (do this once the lattice is done drawing) 
+* Next choose points on the interior of the polygon
+  - If you want to choose points by hand, first select **Brute-Force Voronoi** or **Fast Voronoi** from the menu and start adding points on the interior of the polygon
+  - If you want to choose a pre-existing lattice, select one from the drop down menu before selecting one of the two aforementioned options (do this once the lattice is finished drawing)
 
 image::lattice.png[front pic]
 
