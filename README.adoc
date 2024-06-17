@@ -10,7 +10,7 @@
 
 A dynamic visualization software for Voronoi diagrams in the Hilbert metric on user specified convex polygons.
 
-image::voronoi.png[front pic]
+image::heksagon.jpg[front pic]
 
 ## Overview
 
@@ -24,8 +24,6 @@ To read our full paper, please check out our arXiv: link:https://arxiv.org/abs/2
 
 
 ## Installation 
-Download the latest release through the release tab
-
 To edit the source code on your local machine you need link:https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html[Java8] and link:https://processing.org/download[processing2.2.1]
 
 image::release.png[front pic]
@@ -40,21 +38,7 @@ You should see below window when launched successfully
 
 image::launch.png[front pic]
 
-## Acknowledgement
-
-We would like to thank Frank Nielsen and Laëtitia Shao for sharing their Hilbert Ball source code with us.
-
-## Citing this Work
-
-```
-@article{Gezalyan2021VoronoiDI,
-  title={Voronoi Diagrams in the Hilbert Metric},
-  author={Auguste H. Gezalyan and David M. Mount},
-  journal={ArXiv},
-  year={2021},
-  volume={abs/2112.03056}
-}
-```
+## Added features
 
 ## License
 
