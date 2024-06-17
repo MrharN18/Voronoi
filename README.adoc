@@ -29,10 +29,12 @@ image::launch_new.png[front pic]
 
 ## Usage
 
-- First select **Insert Convex** and create a polygon by hand or pick one of the relugar polygons from the drop down menus
-- Next we have to choose points inside the polygon
+* First select **Insert Convex** and create a polygon by hand or pick one of the relugar polygons from the drop down menus
+image::polygon.jpg[front pic]
+* Next we have to choose points inside the polygon
   - If you want to choose points by hand, first choose **Brute-Force Voronoi** or **Fast Voronoi** from the menu and start selecting points in the interior of the polygon
   - If you want to choose a pre-existing lattice, choose one from the drop down menu before selecting one of the two aforementioned options (do this once the lattice is done drawing) 
+    image::lattice.jpg[front pic]
 
 ## License
 
