@@ -13,7 +13,7 @@ A dynamic visualization software for Voronoi diagrams in the Hilbert metric on u
 image::heksagon.jpg[front pic]
 
 ## Overview
-This repository contains an extension of the software used for drawing Voronoi diagrams in the Hilbert metric. It improves the existing software by adding options for regular polygons and lattices.
+This repository contains an extension of the software used for drawing Voronoi diagrams in the Hilbert metric. It improves the existing software[https://github.com/caesardai/Voronoi_In_Hilbert/tree/main] by adding options for regular polygons and lattices.
 
 ## Installation and run
 To edit the source code on your local machine you need link:https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html[Java8] and link:https://processing.org/download[processing2.2.1]
